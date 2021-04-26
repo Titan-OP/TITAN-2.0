@@ -51,18 +51,18 @@
   
 # **ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ 𝐓𝐈𝐓𝐀𝐍 𝟐.𝟎**
 
-**ꜰɪʀꜱᴛ ᴅᴏ**  | <a href="https://github.com/Techno212/TITAN-2.0/network/members"><img src="https://img.shields.io/badge/-FORK-blue.svg?style=for-the-badge&logo=Github"></a> |  **ᴛʜᴇɴ ᴅᴏ ꜱᴏᴍᴇ ʀᴇQᴜɪʀᴇᴅ ᴄʜᴀɴɢᴇꜱ ɪɴ __ᴍᴀɪɴ__.ᴘʏ , ᴛʜᴇɴ ᴛᴜʀɴ ᴏꜰꜰ ᴡᴇʙ ᴅʏɴᴏꜱ ᴀɴᴅ ᴛᴜʀɴ ᴏɴ ᴡᴏʀᴋᴇʀ ᴅʏɴᴏꜱ.ᴛʜᴇɴ ɪꜰ ᴇʀʀᴏʀ ᴄᴀᴍᴇ ᴛʜᴇɴ ɢᴏ ᴛᴏ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ʀᴇᴠᴇᴀʟ ᴄᴏɴꜰɪɢ ᴠᴀʀ ᴀɴᴅ ᴅᴇʟᴇᴛᴇ ᴘᴏʀᴛ ᴀɴᴅ ᴡʜᴇᴇʙᴏᴏᴋ , ᴛʜᴇɴ ᴡᴀɪᴛ 2 - 3 ᴍɪɴ ᴀɴᴅ ʙᴏᴛ ꜱᴛᴀʀᴛ.** 😊
+**ꜰɪʀꜱᴛ ᴅᴏ**  | <a href="https://github.com/Titan-OP/TITAN-2.0/network/members"><img src="https://img.shields.io/badge/-FORK-blue.svg?style=for-the-badge&logo=Github"></a> |  **ᴛʜᴇɴ ᴅᴏ ꜱᴏᴍᴇ ʀᴇQᴜɪʀᴇᴅ ᴄʜᴀɴɢᴇꜱ ɪɴ __ᴍᴀɪɴ__.ᴘʏ , ᴛʜᴇɴ ᴛᴜʀɴ ᴏꜰꜰ ᴡᴇʙ ᴅʏɴᴏꜱ ᴀɴᴅ ᴛᴜʀɴ ᴏɴ ᴡᴏʀᴋᴇʀ ᴅʏɴᴏꜱ.ᴛʜᴇɴ ɪꜰ ᴇʀʀᴏʀ ᴄᴀᴍᴇ ᴛʜᴇɴ ɢᴏ ᴛᴏ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ʀᴇᴠᴇᴀʟ ᴄᴏɴꜰɪɢ ᴠᴀʀ ᴀɴᴅ ᴅᴇʟᴇᴛᴇ ᴘᴏʀᴛ ᴀɴᴅ ᴡʜᴇᴇʙᴏᴏᴋ , ᴛʜᴇɴ ᴡᴀɪᴛ 2 - 3 ᴍɪɴ ᴀɴᴅ ʙᴏᴛ ꜱᴛᴀʀᴛ.** 😊
 **ᴇᴠᴇɴ ᴛʜᴇɴ ᴀɴʏ ᴇʀʀᴏʀ ᴄᴀᴍᴇ ᴛʜᴇɴ ᴅᴏɴ'ᴛ ᴡᴏʀʀʏ ᴅɪʀᴇᴄᴛʟʏ ᴍᴇꜱꜱᴀɢᴇ ᴏɴ.....**   <a href="https://telegram.me/titanx_2_chat"><img src="https://img.shields.io/badge/-SUPPORT%20GROUP-brightgreen.svg?style=for-the-badge&logo=Telegram"></a>
 
 ----------------------------------------------------------------------------
 # Dᴇᴘʟᴏʏ:-
 
-[![DEPLOY HERE](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Techno212/TITAN-2.0/blob/main)
+[![DEPLOY HERE](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Titan-OP/TITAN-2.0/blob/main)
 
 ----------------------------------------------------------------------------
 ➥ 𝙸𝙵 𝚈𝙾𝚄 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝚃𝙷𝙴𝙽 𝙿𝙻𝙴𝙰𝚂𝙴 𝙶𝙸𝚅𝙴 𝙸𝚃 𝙰 𝚂𝚃𝙰𝚁.
 
-<a href="https://github.com/Techno212/TITAN-2.0/stargazers"><img src="https://img.shields.io/badge/-STAR-purple.svg?style=for-the-badge&logo=Github"></a>
+<a href="https://github.com/Titan-OP/TITAN-2.0/stargazers"><img src="https://img.shields.io/badge/-STAR-purple.svg?style=for-the-badge&logo=Github"></a>
 
 ----------------------------------------------------------------------------
 
