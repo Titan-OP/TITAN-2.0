@@ -70,6 +70,6 @@
 
 ➥ [**тє¢нησ_ρяσ**](https://t.me/DARK_DEVIL_OP)
  
-➥ [**ᴋᴀɴᴇᴋɪ ࿐ 『ᴘʜᴏᴇɴɪx𒆜』**](https://t.me/kenaki_13)
+➥ [**ᴋᴀɴᴇᴋɪ**](https://t.me/kenaki_13)
  
 ➥ [**💲♓️ℹ️♈️🅰️〽️**](https://t.me/Shivam_Patel)
