@@ -1,7 +1,7 @@
 {
-      "name": "TITAN 2.0",
-      "logo": "https://telegra.ph/file/17d8d1c38b231180a36d0.jpg"
-      "description": "An suberb and Friendly group management bot for telegram users.",
+      "name": "𝐓𝐈𝐓𝐀𝐍 𝟐.𝟎",
+      "logo": "https://telegra.ph/file/b3848003d589bdbd971f3.jpg",
+      "description": "𝙰𝚗 𝚂𝚞𝚙𝚎𝚛𝚋 𝚊𝚗𝚍 𝙵𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚐𝚛𝚘𝚞𝚙 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚋𝚘𝚝.𝚆𝚑𝚒𝚌𝚑 𝚌𝚊𝚗 𝚑𝚎𝚕𝚙 𝚢𝚘𝚞 𝚒𝚗 𝚖𝚊𝚗𝚊𝚐𝚒𝚗𝚐 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚒𝚕𝚢.",
       "keywords": [
          "telegram",
          "anime",
@@ -28,134 +28,134 @@
   ],      
    "env": {
       "TOKEN": {
-         "description": "Your bot token. Get one from @BotFather duh",
+         "description": "𝚈𝚘𝚞𝚛 𝚋𝚘𝚝 𝚝𝚘𝚔𝚎𝚗. 𝙶𝚎𝚝 𝚘𝚗𝚎 𝚏𝚛𝚘𝚖 @𝙱𝚘𝚝𝙵𝚊𝚝𝚑𝚎𝚛 𝚍𝚞𝚑",
          "required": true,
          "value": ""
       },
       "API_ID": {
-         "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
+         "description": "𝙶𝚎𝚝 𝙰𝙿𝙸_𝙸𝙳 𝚏𝚛𝚘𝚖 𝚖𝚢.𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖.𝚘𝚛𝚐, 𝚞𝚜𝚎𝚍 𝚏𝚘𝚛 𝚝𝚎𝚕𝚎𝚝𝚑𝚘𝚗 𝚋𝚊𝚜𝚎𝚍 𝚖𝚘𝚍𝚞𝚕𝚎𝚜.𝙳𝙾 𝙽𝙾𝚃 𝚂𝚃𝙴𝙰𝙻, 𝚂𝚃𝙴𝙰𝙻𝙸𝙽𝙶 𝙼𝙰𝚈 𝙲𝙰𝚄𝚂𝙴 𝚃𝙾 𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝙱𝙰𝙽",
          "required": true,
          "value": ""
       },
       "API_HASH": {
-         "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
+         "description": "𝙶𝚎𝚝 𝙰𝙿𝙸_𝙷𝙰𝚂𝙷 𝚏𝚛𝚘𝚖 𝚖𝚢.𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖.𝚘𝚛𝚐, 𝚞𝚜𝚎𝚍 𝚏𝚘𝚛 𝚝𝚎𝚕𝚎𝚝𝚑𝚘𝚗 𝚋𝚊𝚜𝚎𝚍 𝚖𝚘𝚍𝚞𝚕𝚎𝚜.𝙳𝙾 𝙽𝙾𝚃 𝚂𝚃𝙴𝙰𝙻, 𝚂𝚃𝙴𝙰𝙻𝙸𝙽𝙶 𝙼𝙰𝚈 𝙲𝙰𝚄𝚂𝙴 𝚃𝙾 𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝙱𝙰𝙽..",
          "required": true,
          "value": ""
       },    
       "SQLALCHEMY_DATABASE_URI": {
-         "description": "Your postgres sql db, empty this field if you dont have one.",
+         "description": "𝚈𝚘𝚞𝚛 𝚙𝚘𝚜𝚝𝚐𝚛𝚎𝚜 𝚜𝚚𝚕 𝚍𝚋, 𝚎𝚖𝚙𝚝𝚢 𝚝𝚑𝚒𝚜 𝚏𝚒𝚎𝚕𝚍 𝚒𝚏 𝚢𝚘𝚞 𝚍𝚘𝚗𝚝 𝚑𝚊𝚟𝚎 𝚘𝚗𝚎.",
          "required": false,
          "value": "sqldbtype://username:pw@hostname:port/db_name"
       },
       "HEROKU_API_KEY": {
-         "description": "Your api key please for updater",
+         "description": "𝚈𝚘𝚞𝚛 𝙷𝚎𝚛𝚘𝚔𝚞 𝙰𝙿𝙸 𝚔𝚎𝚢 𝚏𝚘𝚛 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚏 𝚞𝚙𝚍𝚊𝚝𝚎𝚛.",
          "required": false,
          "value": ""
       },
       "HEROKU_APP_NAME": {
-         "description": "Your app name for updater",
+         "description": "𝚈𝚘𝚞𝚛 𝚊𝚙𝚙 𝚗𝚊𝚖𝚎 𝚝𝚑𝚊𝚝 𝚞 𝚓𝚞𝚜𝚝 𝚏𝚒𝚕𝚕𝚎𝚍 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐, 𝚛𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚏𝚘𝚛 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚏 𝚞𝚙𝚍𝚊𝚝𝚎𝚛.",
          "required": true,
          "value": ""
       },      
       "OWNER_ID": {
-         "description": "Your user ID as an integer.",
+         "description": "𝚈𝚘𝚞𝚛 𝚞𝚜𝚎𝚛 𝙸𝙳 𝚊𝚜 𝚊𝚗 𝚒𝚗𝚝𝚎𝚐𝚎𝚛.",
          "required": true,
-         "value": "1100231654"
+         "value": "1097093376"
       },
       "OWNER_USERNAME": {
-         "description": "Your username without the @",
-         "value": "LEGENDX2222"
+         "description": "𝚈𝚘𝚞𝚛 𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝚝𝚑𝚎 @",
+         "value": "DARK_DEVIL_OP"
       },
       "SUPPORT_CHAT": {
-         "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
+         "description": "𝚈𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚐𝚛𝚘𝚞𝚙 𝚌𝚑𝚊𝚝 𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎 𝚠𝚑𝚎𝚛𝚎 𝚢𝚘𝚞𝚛 𝚞𝚜𝚎𝚛𝚜 𝚠𝚒𝚕𝚕 𝚐𝚘 𝚊𝚗𝚍 𝚋𝚘𝚝𝚑𝚎𝚛 𝚢𝚘𝚞 𝚠𝚒𝚝𝚑 𝚚𝚞𝚎𝚛𝚒𝚎𝚜, 𝙱𝚞𝚝 𝚋𝚎 𝚕𝚒𝚔𝚎: 𝙼𝚢𝙶𝚛𝚘𝚞𝚙𝙲𝚑𝚊𝚝𝚄𝚜𝚎𝚛𝚗𝚊𝚖𝚎𝙱𝚕𝚊𝚑. 𝙸𝚏 𝚝𝚑𝚒𝚜 𝚎𝚟𝚎𝚛 𝚙𝚘𝚒𝚗𝚝𝚜 𝚝𝚘 𝚃𝙸𝚃𝙰𝙽 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚝𝚑𝚊𝚗 𝚌𝚘𝚗𝚜𝚒𝚍𝚎𝚛 𝚢𝚘𝚞 𝚖𝚊𝚍𝚎 𝚊𝚗 𝚎𝚗𝚎𝚖𝚢.",
          "required": true,
-         "value": "LEGEND_USERBOT_SUPPORT"
+         "value": "TITANX_CHAT"
       },
       "EVENT_LOGS": {
-         "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
+         "description": "𝙴𝚟𝚎𝚗𝚝 𝚕𝚘𝚐𝚜 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 𝚝𝚘 𝚗𝚘𝚝𝚎 𝚍𝚘𝚠𝚗 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚋𝚘𝚝 𝚕𝚎𝚟𝚎𝚕 𝚎𝚟𝚎𝚗𝚝𝚜, 𝚛𝚎𝚌𝚘𝚖𝚖𝚎𝚗𝚍 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚝𝚑𝚒𝚜 𝚙𝚞𝚋𝚕𝚒𝚌. 𝚎𝚡: '-𝟷𝟸𝟹𝟺𝟻𝟼'",
          "required": true,
          "value": "-123456798"
       },
       "JOIN_LOGGER": {
-         "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
+         "description": "𝙰 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 𝚠𝚑𝚎𝚛𝚎 𝚋𝚘𝚝 𝚠𝚒𝚕𝚕 𝚙𝚛𝚒𝚗𝚝 𝚠𝚑𝚘 𝚊𝚍𝚍𝚎𝚍 𝚒𝚝 𝚝𝚘 𝚠𝚑𝚊𝚝 𝚐𝚛𝚘𝚞𝚙, 𝚞𝚜𝚎𝚏𝚞𝚕 𝚍𝚞𝚛𝚒𝚗𝚐 𝚍𝚎𝚋𝚞𝚐𝚐𝚒𝚗𝚐 𝚘𝚛 𝚜𝚙𝚊𝚖 𝚑𝚊𝚗𝚍𝚕𝚒𝚗𝚐.",
          "required": true,
          "value": "-123456798"
       },      
       "CASH_API_KEY": {
-         "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
+         "description": "𝚁𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚏𝚘𝚛 𝚌𝚞𝚛𝚛𝚎𝚗𝚌𝚢 𝚌𝚘𝚗𝚟𝚎𝚛𝚝𝚎𝚛. 𝙶𝚎𝚝 𝚢𝚘𝚞𝚛𝚜 𝚏𝚛𝚘𝚖 𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚊𝚕𝚙𝚑𝚊𝚟𝚊𝚗𝚝𝚊𝚐𝚎.𝚌𝚘/𝚜𝚞𝚙𝚙𝚘𝚛𝚝/#𝚊𝚙𝚒-𝚔𝚎𝚢",
          "required": true,
          "value": "-xyz"
       },
       "TIME_API_KEY": {
-         "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
+         "description": "𝚁𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚏𝚘𝚛 𝚝𝚒𝚖𝚎𝚣𝚘𝚗𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗. 𝙶𝚎𝚝 𝚢𝚘𝚞𝚛𝚜 𝚏𝚛𝚘𝚖 𝚑𝚝𝚝𝚙𝚜://𝚝𝚒𝚖𝚎𝚣𝚘𝚗𝚎𝚍𝚋.𝚌𝚘𝚖/𝚊𝚙𝚒",
          "required": true,
          "value": "-xyz"
       },
       "DEV_USERS": {
-         "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Legend support then keep the current ID's here at they are and add yours.",
+         "description": "𝙸𝙳 𝚘𝚏 𝚞𝚜𝚎𝚛𝚜 𝚠𝚑𝚘 𝚊𝚛𝚎 𝙳𝚎𝚟𝚜 𝚘𝚏 𝚢𝚘𝚞𝚛 𝚋𝚘𝚝 (𝚌𝚊𝚗 𝚞𝚜𝚎 /𝚙𝚢 𝚎𝚝𝚌.). 𝙺𝚎𝚎𝚙 𝚝𝚑𝚎 𝚌𝚞𝚛𝚛𝚎𝚗𝚝 𝙸𝙳 𝚊𝚜 𝚒𝚝 𝚒𝚜 𝚊𝚗𝚍 𝚊𝚍𝚍 𝚢𝚘𝚞𝚛 𝙸𝙳 𝚋𝚎𝚜𝚒𝚍𝚎 𝚒𝚝 𝚒𝚏 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 (𝚍𝚘 𝚗𝚘𝚝 𝚛𝚎𝚖𝚘𝚟𝚎 𝚝𝚑𝚎 𝚌𝚞𝚛𝚛𝚎𝚗𝚝 𝙸𝙳 𝚘𝚛 𝚎𝚕𝚜𝚎 𝚢𝚘𝚞 𝚖𝚒𝚐𝚑𝚝 𝚏𝚊𝚌𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜).",
          "required": false,
-         "value": "1100231654"
+         "value": "1097093376"
       },
       "sw_api": {
-         "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
+         "description": "𝚂𝚙𝚊𝚖𝚠𝚊𝚝𝚌𝚑 𝙰𝙿𝙸 𝚃𝚘𝚔𝚎𝚗, 𝙶𝚎𝚝 𝚘𝚗𝚎 𝚏𝚛𝚘𝚖 @𝚂𝚙𝚊𝚖𝚆𝚊𝚝𝚌𝚑𝙱𝚘𝚝.",
          "required": false,
          "value": ""
       }, 
       "STRICT_GBAN": {
-         "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
+         "description": "𝙴𝚗𝚏𝚘𝚛𝚌𝚎 𝚐𝚋𝚊𝚗𝚜 𝚊𝚌𝚛𝚘𝚜𝚜 𝚗𝚎𝚠 𝚐𝚛𝚘𝚞𝚙𝚜 𝚊𝚜 𝚠𝚎𝚕𝚕 𝚊𝚜 𝚘𝚕𝚍 𝚐𝚛𝚘𝚞𝚙𝚜. 𝚆𝚑𝚎𝚗 𝚊 𝚐𝚋𝚊𝚗𝚗𝚎𝚍 𝚞𝚜𝚎𝚛 𝚝𝚊𝚕𝚔𝚜, 𝚑𝚎 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚋𝚊𝚗𝚗𝚎𝚍.",
          "value": "True"
       },
       "DRAGONS": {
-         "description": "A space separated list of user IDs who you want to assign as sudo users.",
+         "description": "𝙰 𝚜𝚙𝚊𝚌𝚎 𝚜𝚎𝚙𝚊𝚛𝚊𝚝𝚎𝚍 𝚕𝚒𝚜𝚝 𝚘𝚏 𝚞𝚜𝚎𝚛 𝙸𝙳𝚜 𝚠𝚑𝚘 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚊𝚜𝚜𝚒𝚐𝚗 𝚊𝚜 𝚜𝚞𝚍𝚘 𝚞𝚜𝚎𝚛𝚜.",
          "required": false,
-         "value": "1100231654"
+         "value": "1097093376"
       },
       "DEMONS": {
-         "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
+         "description": "𝙰 𝚜𝚙𝚊𝚌𝚎 𝚜𝚎𝚙𝚊𝚛𝚊𝚝𝚎𝚍 𝚕𝚒𝚜𝚝 𝚘𝚏 𝚞𝚜𝚎𝚛 𝙸𝙳𝚜 𝚠𝚑𝚘 𝚢𝚘𝚞 𝚠𝚊𝚗𝚗𝚊 𝚊𝚜𝚜𝚒𝚐𝚗 𝚊𝚜 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚞𝚜𝚎𝚛𝚜(𝚐𝚋𝚊𝚗 𝚙𝚎𝚛𝚖𝚜 𝚘𝚗𝚕𝚢).",
          "required": false,
-         "value": "1100231654"
+         "value": "1097093376"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1100231654"
+         "value": "1097093376"
       },
       "WOLVES": {
-         "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
+         "description": "𝙰 𝚜𝚙𝚊𝚌𝚎 𝚜𝚎𝚙𝚊𝚛𝚊𝚝𝚎𝚍 𝚕𝚒𝚜𝚝 𝚘𝚏 𝚞𝚜𝚎𝚛 𝙸𝙳𝚜 𝚠𝚑𝚘 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚊𝚜𝚜𝚒𝚐𝚗 𝚊𝚜 𝚠𝚑𝚒𝚝𝚎𝚕𝚒𝚜𝚝𝚎𝚍 - 𝚌𝚊𝚗'𝚝 𝚋𝚎 𝚋𝚊𝚗𝚗𝚎𝚍 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞𝚛 𝚋𝚘𝚝.",
          "required": false,
-         "value": "1100231654"
+         "value": "1097093376"
       },
       "ENV": {
-         "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
+         "description": "𝚂𝚎𝚝𝚝𝚒𝚗𝚐 𝚝𝚑𝚒𝚜 𝚝𝚘 𝙰𝙽𝚈𝚃𝙷𝙸𝙽𝙶 𝚠𝚒𝚕𝚕 𝚎𝚗𝚊𝚋𝚕𝚎 𝚎𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝 𝚟𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜. 𝙻𝚎𝚊𝚟𝚎 𝚒𝚝 𝚊𝚜 𝚒𝚝 𝚒𝚜",
          "value": "ANYTHING"
       },
       "WEBHOOK": {
-         "description": "Setting this to ANYTHING will enable webhooks. If you dont know how this works leave it as it is",
+         "description": "𝚂𝚎𝚝𝚝𝚒𝚗𝚐 𝚝𝚑𝚒𝚜 𝚝𝚘 𝙰𝙽𝚈𝚃𝙷𝙸𝙽𝙶 𝚠𝚒𝚕𝚕 𝚎𝚗𝚊𝚋𝚕𝚎 𝚠𝚎𝚋𝚑𝚘𝚘𝚔𝚜. 𝙸𝚏 𝚢𝚘𝚞 𝚍𝚘𝚗𝚝 𝚔𝚗𝚘𝚠 𝚑𝚘𝚠 𝚝𝚑𝚒𝚜 𝚠𝚘𝚛𝚔𝚜 𝚕𝚎𝚊𝚟𝚎 𝚒𝚝 𝚊𝚜 𝚒𝚝 𝚒𝚜",
          "required": false,
          "value": ""
       },
       "PORT": {
-         "description": "Port to use for your webhooks. Better leave this as it is on heroku",
+         "description": "𝙿𝚘𝚛𝚝 𝚝𝚘 𝚞𝚜𝚎 𝚏𝚘𝚛 𝚢𝚘𝚞𝚛 𝚠𝚎𝚋𝚑𝚘𝚘𝚔𝚜. 𝙱𝚎𝚝𝚝𝚎𝚛 𝚕𝚎𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚊𝚜 𝚒𝚝 𝚒𝚜 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞",
          "required": false,
          "value": ""
       },
       "URL": {
-         "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
+         "description": "𝚃𝚑𝚎 𝙷𝚎𝚛𝚘𝚔𝚞 𝙰𝚙𝚙 𝚄𝚁𝙻 :-  𝚑𝚝𝚝𝚙𝚜://<𝚊𝚙𝚙𝚗𝚊𝚖𝚎>.𝚑𝚎𝚛𝚘𝚔𝚞𝚊𝚙𝚙.𝚌𝚘𝚖/",
          "required": false,
          "value": ""
       },
       "No_LOAD": {
-         "description": "Dont load these modules cause they shit, space separation",
+         "description": "𝙳𝚘𝚗𝚝 𝚕𝚘𝚊𝚍 𝚝𝚑𝚎𝚜𝚎 𝚖𝚘𝚍𝚞𝚕𝚎𝚜 𝚌𝚊𝚞𝚜𝚎 𝚝𝚑𝚎𝚢 𝚜𝚑𝚒𝚝, 𝚜𝚙𝚊𝚌𝚎 𝚜𝚎𝚙𝚊𝚛𝚊𝚝𝚒𝚘𝚗",
          "required": false,
          "value": "cleaner rss connection"
       }, 
       "BL_CHATS": {
-         "description": "List of chats you want blacklisted.",
+         "description": "𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚑𝚊𝚝𝚜 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚋𝚕𝚊𝚌𝚔𝚕𝚒𝚜𝚝𝚎𝚍.",
          "required": false,
          "value": ""
       },
       "ALLOW_EXCL": {
-         "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
+         "description": "𝚂𝚎𝚝 𝚝𝚑𝚒𝚜 𝚝𝚘 𝚃𝚛𝚞𝚎 𝚒𝚏 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 ! 𝚝𝚘 𝚋𝚎 𝚊 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚙𝚛𝚎𝚏𝚒𝚡 𝚊𝚕𝚘𝚗𝚐 𝚠𝚒𝚝𝚑 /. 𝚁𝚎𝚌𝚘𝚖𝚖𝚎𝚗𝚍𝚎𝚍 𝚒𝚜 𝚃𝚛𝚞𝚎",
          "value": "True"
       },
       "DONATION_LINK": {
@@ -164,21 +164,21 @@
          "value": "https://www.paypal.me/PaulSonOfLars"
       },
       "DEL_CMDS": {
-         "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
+         "description": "𝚂𝚎𝚝 𝚝𝚑𝚒𝚜 𝚝𝚘 𝚃𝚛𝚞𝚎 𝚒𝚏 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚍𝚎𝚕𝚎𝚝𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚖𝚎𝚜𝚜𝚊𝚐𝚎𝚜 𝚏𝚛𝚘𝚖 𝚞𝚜𝚎𝚛𝚜 𝚠𝚑𝚘 𝚍𝚘𝚗'𝚝 𝚑𝚊𝚟𝚎 𝚝𝚑𝚎 𝚙𝚎𝚛𝚖𝚜 𝚝𝚘 𝚛𝚞𝚗 𝚝𝚑𝚊𝚝 𝚌𝚘𝚖𝚖𝚊𝚗𝚍.",
          "value": "True"
       },
       "AI_API_KEY": {
-      "description": "Make your bot talk using Intellivoid's chatbot API, get your key from https://coffeehouse.intellivoid.net/",
+      "description": "𝙼𝚊𝚔𝚎 𝚢𝚘𝚞𝚛 𝚋𝚘𝚝 𝚝𝚊𝚕𝚔 𝚞𝚜𝚒𝚗𝚐 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚟𝚘𝚒𝚍'𝚜 𝚌𝚑𝚊𝚝𝚋𝚘𝚝 𝙰𝙿𝙸, 𝚐𝚎𝚝 𝚢𝚘𝚞𝚛 𝚔𝚎𝚢 𝚏𝚛𝚘𝚖 𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚏𝚏𝚎𝚎𝚑𝚘𝚞𝚜𝚎.𝚒𝚗𝚝𝚎𝚕𝚕𝚒𝚟𝚘𝚒𝚍.𝚗𝚎𝚝/",
          "required": false,
          "value": ""
    },      
       "BAN_STICKER": {
-         "description": "ID of the sticker you want to use when banning people.",
+         "description": "𝙸𝙳 𝚘𝚏 𝚝𝚑𝚎 𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚞𝚜𝚎 𝚠𝚑𝚎𝚗 𝚋𝚊𝚗𝚗𝚒𝚗𝚐 𝚙𝚎𝚘𝚙𝚕𝚎.",
          "required": false,
          "value": ""
       },
       "WALL_API": {
-         "description": "Required for wallpaper. Get your's from https://wall.alphacoders.com/",
+         "description": "𝚁𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚏𝚘𝚛 𝚠𝚊𝚕𝚕𝚙𝚊𝚙𝚎𝚛. 𝙶𝚎𝚝 𝚢𝚘𝚞𝚛'𝚜 𝚏𝚛𝚘𝚖 𝚑𝚝𝚝𝚙𝚜://𝚠𝚊𝚕𝚕.𝚊𝚕𝚙𝚑𝚊𝚌𝚘𝚍𝚎𝚛𝚜.𝚌𝚘𝚖/",
          "required": false,
          "value": ""
       }
@@ -190,6 +190,6 @@
       "manager",
       "TITAN"
    ],
-   "name": "TITAN 2.0",
+   "name": "𝐓𝐈𝐓𝐀𝐍 𝟐.𝟎",
    "repository": "https://github.com/Titan-OP/TITAN-2.0"
 }
