@@ -27,7 +27,7 @@
 
 ## **ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ᴇʀʀᴏʀ ʏᴏᴜ ᴄᴀɴ ᴛʀʏ ᴛᴀᴋɪɴɢ ʜᴇʟᴘ ꜰʀᴏᴍ** 
 
- <a href="https://telegram.me/TITANX_CHAT"><img src="https://img.shields.io/badge/TG-SUPPORT%20GROUP-brightgreen.svg?style=for-the-badge&logo=Telegram?style=plastic&logo=appveyor"></a>
+ <a href="https://telegram.me/TITANX_CHAT"><img src="https://img.shields.io/badge/TG-SUPPORT%20GROUP-brightgreen.svg?style=for-the-badge&logo=Telegram"></a>
 
 ----------------------------------------------------------------------------
 
@@ -44,8 +44,8 @@
 ----------------------------------------------------------------------------
 # **ꜰᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ ᴊᴏɪɴ**
 
-<a href="https://telegram.me/TITAN_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram?style=plastic&logo=appveyor"></a>
-<a href="https://telegram.me/TITANX_CHAT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram?style=plastic&logo=appveyor"></a>      
+<a href="https://telegram.me/TITAN_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram?"></a>
+<a href="https://telegram.me/TITANX_CHAT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram?"></a>      
 
 ----------------------------------------------------------------------------
   
@@ -72,6 +72,6 @@
 
 # Cʀᴇᴅɪᴛs ❤️
 
-➥ [**тє¢нησ_ρяσ**](https://t.me/DARK_DEVIL_OP)   **»»** <a href="https://github.com/Titan-OP" alt="Tᴇᴄʜɴᴏ Pʀᴏ"> <img src="https://img.shields.io/badge/-T%E1%B4%87%E1%B4%84%CA%9C%C9%B4%E1%B4%8F%20P%CA%80%E1%B4%8F-blue?logo=github?style=plastic&logo=appveyor" /></a>
+➥ [**тє¢нησ_ρяσ**](https://t.me/DARK_DEVIL_OP)   **»»** <a href="https://github.com/Titan-OP" alt="Tᴇᴄʜɴᴏ Pʀᴏ"> <img src="https://img.shields.io/badge/-T%E1%B4%87%E1%B4%84%CA%9C%C9%B4%E1%B4%8F%20P%CA%80%E1%B4%8F-blue?logo=github" /></a>
 
-➥ [**ᴋᴀɴᴇᴋɪ**](https://t.me/Kaneki_ded)   **»»** <a href="https://github.com/kanekiken44" alt="Kᴀɴᴇᴋɪ"> <img src="https://img.shields.io/badge/-K%E1%B4%80%C9%B4%E1%B4%87%E1%B4%8B%C9%AA-brightgreen?logo=github?style=plastic&logo=appveyor" /></a>
+➥ [**ᴋᴀɴᴇᴋɪ**](https://t.me/Kaneki_ded)   **»»** <a href="https://github.com/kanekiken44" alt="Kᴀɴᴇᴋɪ"> <img src="https://img.shields.io/badge/-K%E1%B4%80%C9%B4%E1%B4%87%E1%B4%8B%C9%AA-brightgreen?logo=github" /></a>
