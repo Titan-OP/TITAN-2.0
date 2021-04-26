@@ -72,8 +72,8 @@
 
 # Cʀᴇᴅɪᴛs ❤️
 
-➥ [**тє¢нησ_ρяσ**](https://t.me/DARK_DEVIL_OP)
- 
+➥ [**тє¢нησ_ρяσ**](https://t.me/DARK_DEVIL_OP)  »» <a href="https://github.com/Titan-OP" alt="Tᴇᴄʜɴᴏ Pʀᴏ"> <img src="https://img.shields.io/badge/-T%E1%B4%87%E1%B4%84%CA%9C%C9%B4%E1%B4%8F%20P%CA%80%E1%B4%8F-blue?logo=github" /></a>
+
 ➥ [**ᴋᴀɴᴇᴋɪ**](https://t.me/kenaki_13)
  
 ➥ [**💲♓️ℹ️♈️🅰️〽️**](https://t.me/Shivam_Patel)
