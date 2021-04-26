@@ -74,8 +74,8 @@
 
 ➥ [**тє¢нησ_ρяσ**](https://t.me/DARK_DEVIL_OP)   
 
-<a href="https://github.com/Titan-OP" alt="Tᴇᴄʜɴᴏ Pʀᴏ"> <img src="https://img.shields.io/badge/-T%E1%B4%87%E1%B4%84%CA%9C%C9%B4%E1%B4%8F%20P%CA%80%E1%B4%8F-blue?logo=github" /></a>  **••**   <a href="https://telegram.me/DARK_DEVIL_OP" alt="Tᴇᴄʜɴᴏ Pʀᴏ"> <img src="https://img.shields.io/badge/-T%E1%B4%87%E1%B4%84%CA%9C%C9%B4%E1%B4%8F%20P%CA%80%E1%B4%8F-bluevoilet?logo=telegram" /></a>
+<a href="https://github.com/Titan-OP" alt="Tᴇᴄʜɴᴏ Pʀᴏ"> <img src="https://img.shields.io/badge/-T%E1%B4%87%E1%B4%84%CA%9C%C9%B4%E1%B4%8F%20P%CA%80%E1%B4%8F-blue?logo=github" /></a>  **•**   <a href="https://telegram.me/DARK_DEVIL_OP" alt="Tᴇᴄʜɴᴏ Pʀᴏ"> <img src="https://img.shields.io/badge/-T%E1%B4%87%E1%B4%84%CA%9C%C9%B4%E1%B4%8F%20P%CA%80%E1%B4%8F-bluevoilet?logo=telegram" /></a>
 
 ➥ [**ᴋᴀɴᴇᴋɪ**](https://t.me/Kaneki_ded)   
 
-<a href="https://github.com/kanekiken44" alt="Kᴀɴᴇᴋɪ"> <img src="https://img.shields.io/badge/-K%E1%B4%80%C9%B4%E1%B4%87%E1%B4%8B%C9%AA-brightgreen?logo=github" /></a>   **••**   <a href="https://telegram.me/Kaneki_ded" alt="Kᴀɴᴇᴋɪ"> <img src="https://img.shields.io/badge/-K%E1%B4%80%C9%B4%E1%B4%87%E1%B4%8B%C9%AA-orange?logo=telegram" /></a>
+<a href="https://github.com/kanekiken44" alt="Kᴀɴᴇᴋɪ"> <img src="https://img.shields.io/badge/-K%E1%B4%80%C9%B4%E1%B4%87%E1%B4%8B%C9%AA-brightgreen?logo=github" /></a>   **•**   <a href="https://telegram.me/Kaneki_ded" alt="Kᴀɴᴇᴋɪ"> <img src="https://img.shields.io/badge/-K%E1%B4%80%C9%B4%E1%B4%87%E1%B4%8B%C9%AA-orange?logo=telegram" /></a>
