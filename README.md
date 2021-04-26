@@ -44,8 +44,8 @@
 ----------------------------------------------------------------------------
 # **ꜰᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ ᴊᴏɪɴ**
 
-<a href="https://telegram.me/TITAN_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram?"></a>
-<a href="https://telegram.me/TITANX_CHAT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram?"></a>      
+<a href="https://telegram.me/TITAN_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/TITANX_CHAT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>      
 
 ----------------------------------------------------------------------------
   
