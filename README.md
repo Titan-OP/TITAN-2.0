@@ -14,7 +14,7 @@
 ---------------------------------------------------------------------------- 
 
 ## Sᴛᴀᴛᴜs Oғ Tʜɪs Bᴏᴛ
-<p align="left"><a href="https://github.com/Techno212/TITAN-2.0/network/members"><img src="https://img.shields.io/github/forks/Techno212/TITAN-2.0?label=Forks&logoColor=pink&style=social"></a><p align="left"><a href="https://github.com/Techno212/TITAN-2.0/stargazers"><img src="https://img.shields.io/github/stars/Techno212/TITAN-2.0?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/Techno212/TITAN-2.0"><img src="https://img.shields.io/github/last-commit/Techno212/TITAN-2.0?style=plastic"></a>
+<p align="left"><a href="https://github.com/Titan-OP/TITAN-2.0/network/members"><img src="https://img.shields.io/github/forks/Titan-OP/TITAN-2.0?label=Forks&logoColor=pink&style=social"></a><p align="left"><a href="https://github.com/Titan-OP/TITAN-2.0/stargazers"><img src="https://img.shields.io/github/stars/Titan-OP/TITAN-2.0?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/Titan-OP/TITAN-2.0"><img src="https://img.shields.io/github/last-commit/Titan-OP/TITAN-2.0?style=plastic"></a>
 
 ----------------------------------------------------------------------------
 
