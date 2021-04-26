@@ -65,6 +65,10 @@
 <a href="https://github.com/Titan-OP/TITAN-2.0/stargazers"><img src="https://img.shields.io/badge/-STAR-purple.svg?style=for-the-badge&logo=Github"></a>
 
 ----------------------------------------------------------------------------
+# Licence 📋
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
+
+----------------------------------------------------------------------------
 
 # Cʀᴇᴅɪᴛs ❤️
 
