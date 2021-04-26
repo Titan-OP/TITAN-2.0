@@ -27,7 +27,7 @@
 
 ## **ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ᴇʀʀᴏʀ ʏᴏᴜ ᴄᴀɴ ᴛʀʏ ᴛᴀᴋɪɴɢ ʜᴇʟᴘ ꜰʀᴏᴍ** 
 
- <a href="https://telegram.me/titanx_2_chat"><img src="https://img.shields.io/badge/TG-SUPPORT%20GROUP-brightgreen.svg?style=for-the-badge&logo=Telegram"></a>
+ <a href="https://telegram.me/TITANX_CHAT"><img src="https://img.shields.io/badge/TG-SUPPORT%20GROUP-brightgreen.svg?style=for-the-badge&logo=Telegram?style=plastic&logo=appveyor"></a>
 
 ----------------------------------------------------------------------------
 
@@ -44,15 +44,15 @@
 ----------------------------------------------------------------------------
 # **ꜰᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ ᴊᴏɪɴ**
 
-<a href="https://telegram.me/titanx_2_support"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/titanx_2_chat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>      
+<a href="https://telegram.me/TITAN_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram?style=plastic&logo=appveyor"></a>
+<a href="https://telegram.me/TITANX_CHAT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram?style=plastic&logo=appveyor"></a>      
 
 ----------------------------------------------------------------------------
   
 # **ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ 𝐓𝐈𝐓𝐀𝐍 𝟐.𝟎**
 
 **ꜰɪʀꜱᴛ ᴅᴏ**  | <a href="https://github.com/Titan-OP/TITAN-2.0/network/members"><img src="https://img.shields.io/badge/-FORK-blue.svg?style=for-the-badge&logo=Github"></a> |  **ᴛʜᴇɴ ᴅᴏ ꜱᴏᴍᴇ ʀᴇQᴜɪʀᴇᴅ ᴄʜᴀɴɢᴇꜱ ɪɴ __ᴍᴀɪɴ__.ᴘʏ , ᴛʜᴇɴ ᴛᴜʀɴ ᴏꜰꜰ ᴡᴇʙ ᴅʏɴᴏꜱ ᴀɴᴅ ᴛᴜʀɴ ᴏɴ ᴡᴏʀᴋᴇʀ ᴅʏɴᴏꜱ.ᴛʜᴇɴ ɪꜰ ᴇʀʀᴏʀ ᴄᴀᴍᴇ ᴛʜᴇɴ ɢᴏ ᴛᴏ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ʀᴇᴠᴇᴀʟ ᴄᴏɴꜰɪɢ ᴠᴀʀ ᴀɴᴅ ᴅᴇʟᴇᴛᴇ ᴘᴏʀᴛ ᴀɴᴅ ᴡʜᴇᴇʙᴏᴏᴋ , ᴛʜᴇɴ ᴡᴀɪᴛ 2 - 3 ᴍɪɴ ᴀɴᴅ ʙᴏᴛ ꜱᴛᴀʀᴛ.** 😊
-**ᴇᴠᴇɴ ᴛʜᴇɴ ᴀɴʏ ᴇʀʀᴏʀ ᴄᴀᴍᴇ ᴛʜᴇɴ ᴅᴏɴ'ᴛ ᴡᴏʀʀʏ ᴅɪʀᴇᴄᴛʟʏ ᴍᴇꜱꜱᴀɢᴇ ᴏɴ.....**   <a href="https://telegram.me/titanx_2_chat"><img src="https://img.shields.io/badge/-SUPPORT%20GROUP-brightgreen.svg?style=for-the-badge&logo=Telegram"></a>
+**ᴇᴠᴇɴ ᴛʜᴇɴ ᴀɴʏ ᴇʀʀᴏʀ ᴄᴀᴍᴇ ᴛʜᴇɴ ᴅᴏɴ'ᴛ ᴡᴏʀʀʏ ᴅɪʀᴇᴄᴛʟʏ ᴍᴇꜱꜱᴀɢᴇ ᴏɴ.....**   <a href="https://telegram.me/TITANX_CHAT"><img src="https://img.shields.io/badge/-SUPPORT%20GROUP-brightgreen.svg?style=for-the-badge&logo=Telegram"></a>
 
 ----------------------------------------------------------------------------
 # Dᴇᴘʟᴏʏ:-
