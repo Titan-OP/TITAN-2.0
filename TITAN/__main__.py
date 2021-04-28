@@ -69,12 +69,12 @@ Hello there, I'm [TITAN 2.0](https://telegra.ph/file/b3848003d589bdbd971f3.jpg)
 
 I am an Friendly Group Managing Bot and I will help you in managing your group
 
-✪ Make sure you read *INFO* Section Below ✪ 
+✯ Make sure you read *INFO* Section Below ✯ 
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),
+        InlineKeyboardButton(text="『 INFO 』", callback_data="aboutmanu_"),
     ],
     [
         InlineKeyboardButton(text="❓ Help & Commands ❓", callback_data="help_back"),
@@ -90,7 +90,7 @@ buttons = [
 
 HELP_STRINGS = f"""
 *Main Commands :* [TITAN 2.0](https://telegra.ph/file/b3848003d589bdbd971f3.jpg)
-✪ /start: Starts me! You've used it just now.
+✪ /start: Starts me! 
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
 ✪ /settings: 
@@ -101,10 +101,14 @@ HELP_STRINGS = f"""
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
+SAITAMA_IMG = "https://telegra.ph/file/46230e519ba727f9565eb.jpg"
+TITANIMGSTART = "https://telegra.ph/file/d059bad820d5f4bd6cddd.mp4"
+STICKERS = ("CAACAgUAAxkBAAICQGCJjgNuxzxhGn6QEvItH-uT1rofAAKPAwACL25IVLf-806RiltCHwQ"
+)
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [NOW](t.me/titanx_2_support,[TITAN 2.0](t.me/titanx_2_support),"""
+Support them  [NOW](t.me/TITAN_SUPPORT),[TITAN 2.0](t.me/TITANX_CHAT),"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -216,6 +220,8 @@ def start(update: Update, context: CallbackContext):
                 IMPORTED["rules"].send_rules(update, args[0], from_pm=True)
 
         else:
+            update.effective_message.reply_video(
+               TITANIMGSTART)
             update.effective_message.reply_text(
                 PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
@@ -224,7 +230,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            "Yuss! I am online!\n<b>Haven't slept since:</b> <code>{}</code>".format(
+            "Yuss! I am online⚡⚡\n<b>Haven't slept since✨:</b> <code>{}</code>".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
@@ -360,10 +366,10 @@ def TITAN_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs You know I'm a next generational superb and friendly group management bot developed by @DARK_DEVIL_OP.* "
-            f"\n\n 🔥 Join [TITAN 2.0L](https://t.me/titanx_2_support) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
+            text=f"*😍 Hi again!  My Name is *TITAN 2.08 😍 \n\nAs You know I'm a next generation superb and friendly group management bot developed by @DARK_DEVIL_OP.* "
+            f"\n\n 🔥 Join [TITAN 2.0](https://t.me/TITAN_UPDATES) To Keep Yourself Updated About *TITAN 2.0* 🔥"
             f"\n\n I have some normal GROUP MANAGING functions like flood control, a warning system etc. But I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers and many more usefull commands."
-            f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/11de6b6641f5f5d5b344d.jpg)"
+            f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/46230e519ba727f9565eb.jpg)"
             f"\n\n👇 You Can Know More About Me By Clicking The Below Buttons 👇",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -371,15 +377,15 @@ def TITAN_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="How To Use Me", callback_data="aboutmanu_howto"
+                            text="【How To Use Me】", callback_data="aboutmanu_howto"
                         ),
                         InlineKeyboardButton(
-                            text="T & C", callback_data="aboutmanu_tac"
+                            text="📃T & C📃", callback_data="aboutmanu_tac"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="❔Help & Commands", callback_data="help_back"
+                            text="❓Help & Commands❓", callback_data="help_back"
                         )
                     ],
                     [InlineKeyboardButton(text="Back", callback_data="aboutmanu_back")],
@@ -397,8 +403,8 @@ def TITAN_about_callback(update, context):
     elif query.data == "aboutmanu_howto":
         query.message.edit_text(
             text=f"* ｢ BASIC HELP 」*"
-            f"\nYou Can Also Add {dispatcher.bot.first_name} To Your Chats By Clicking [Here](http://t.me/{dispatcher.bot.username}?startgroup=true) And Selecting Chat. \n"
-            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [support](https://t.me/titanx_2_support).\n"
+            f"\nYou Can Also Add *TITAN 2.0* To Your Chats By Clicking [Here](http://t.me/titan1v0_bot?startgroup=true) And Selecting Chat. \n"
+            f"\n\nYou Can get support for *TITAN 2.0* by joining [support](https://t.me/TITANX_CHAT).\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -418,10 +424,10 @@ def TITAN_about_callback(update, context):
         )
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
-            text=f"*{dispatcher.bot.first_name} Is the redisigned version of Daisy and Naruto for the best performance.*"
-            f"\n\nBased on [тє¢нησ_ρяσ](https://github.com/Techno121)."
-            f"\n\n{dispatcher.bot.first_name}'s source code was rewritten by @DARK_DEVIL_OP"
-            f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{SUPPORT_CHAT}.",
+            text=f"*TITAN 2.0 Is the redisigned version of Daisy and Naruto for the best performance.*"
+            f"\n\nBased on [тє¢нησ_ρяσ](https://github.com/Techno212)."
+            f"\n\nTITAN 2.0's source code was written and modified by @DARK_DEVIL_OP|@kenaki_ded"
+            f"\n\nIf Any Question About TITAN 2.0, \nLet Us Know At [SUPPORT GROUP](https://t.me/TITANX_CHAT).",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -432,12 +438,12 @@ def TITAN_about_callback(update, context):
     elif query.data == "aboutmanu_permis":
         query.message.edit_text(
             text=f"<b> ｢ Admin Permissions 」</b>"
-            f"\nTo avoid slowing down, {dispatcher.bot.first_name} caches admin rights for each user. This cache lasts about 10 minutes; this may change in the future. This means that if you promote a user manually (without using the /promote command), {dispatcher.bot.first_name} will only find out ~10 minutes later."
-            f"\n\nIF you want to update them immediately, you can use the /admincache command,that'll force {dispatcher.bot.first_name} to check who the admins are and their permissions"
+            f"\nTo avoid slowing down, TITAN 2.0 caches admin rights for each user. This cache lasts about 10 minutes; this may change in the future. This means that if you promote a user manually (without using the /promote command), TITAN 2.0 will only find out ~10 minutes later."
+            f"\n\nIF you want to update them immediately, you can use the /admincache command,that'll force TITAN 2.0 to check who the admins are and their permissions"
             f"\n\nIf you are getting a message saying:"
             f"\n<Code>You must be this chat administrator to perform this action!</code>"
-            f"\nThis has nothing to do with {dispatcher.bot.first_name}'s rights; this is all about YOUR permissions as an admin. {dispatcher.bot.first_name} respects admin permissions; if you do not have the Ban Users permission as a telegram admin, you won't be able to ban users with {dispatcher.bot.first_name}. Similarly, to change {dispatcher.bot.first_name} settings, you need to have the Change group info permission."
-            f"\n\nThe message very clearly says that you need these rights - <i>not {dispatcher.bot.first_name}.</i>",
+            f"\nThis has nothing to do with TITAN 2.0's rights; this is all about YOUR permissions as an admin. TITAN 2.0 respects admin permissions; if you do not have the Ban Users permission as a telegram admin, you won't be able to ban users with TITAN 2.0. Similarly, to change TITAN 2.0 settings, you need to have the Change group info permission."
+            f"\n\nThe message very clearly says that you need these rights - <i>not TITAN 2.0.</i>",
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton(text="Back", callback_data="aboutmanu_howto")]]
@@ -476,15 +482,15 @@ def TITAN_about_callback(update, context):
         query.message.edit_text(
             text=f"<b> ｢ Terms and Conditions 」</b>\n"
             f"\n<i>To Use This Bot, You Need To Read Terms and Conditions Carefully.</i>\n"
-            f"\n✪ We always respect your privacy \n  We never log into bot's api and spying on you \n  We use a encripted database \n  Bot will automatically stops if someone logged in with api."
-            f"\n✪ Always try to keep credits, so \n  This hardwork is done by @DARK_DEVIL_OP spending many sleepless nights.. So, Respect it."
-            f"\n✪ Some modules in this bot is owned by different authors, So, \n  All credits goes to them \n  Also for <b>Paul Larson for Marie</b>."
-            f"\n✪ If you need to ask anything about \n  this bot, Go to @{SUPPORT_CHAT}."
-            f"\n✪ If you will ask nonsense in Support \n  Chat, you will get warned/banned."
-            f"\n✪ All api's we used owned by originnal authors \n  Some api's we use Free version \n  Please don't overuse AI Chat."
-            f"\n✪ We don't Provide any support to forks,\n  So these terms and conditions not applied to forks \n  If you are using a fork of TITAN 2.0 we are not resposible for anything."
-            f"\n\nFor any kind of help, related to this bot, Join @{SUPPORT_CHAT}."
-            f"\n\n<i>Terms & Conditions can be changed anytime</i>\n",
+            f"\n➥ We always respect your privacy \n  We never log into bot's api and spying on you \n  We use a encripted database \n  Bot will automatically stops if someone logged in with api."
+            f"\n➥ Always try to keep credits, so \n  This hardwork is done by @DARK_DEVIL_OP | @kenaki_ded spending many sleepless nights.. So, Respect it."
+            f"\n➥ Some modules in this bot is owned by different authors, So, \n  All credits goes to them \n  Also for <b>Paul Larson for Marie</b>."
+            f"\n➥ If you need to ask anything about \n  this bot, Go to [SUPPORT GROUP](https://t.me/TITANX_CHAT)."
+            f"\n➥ If you will ask any *nonsense* in Support \n  Chat, you will get warned/banned."
+            f"\n➥ All api's we used is owned by originnal authors \n  Some api's we use Free version \n  Please don't overuse AI Chat."
+            f"\n➥ We don't Provide any support to forks,\n  So these terms and conditions not applied to forks \n  If you are using a fork of 𝐓𝐈𝐓𝐀𝐍 𝟐.𝟎 we are not resposible for anything."
+            f"\n\nFor any kind of help, related to this bot, Join [SUPPORT CHAT](https://t.me/TITANX_CHAT)."
+            f"\n\n<i>Terms & Conditions can be changed anytime according to issues we get and our daily discussion.</i>\n",
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
                 [
@@ -532,14 +538,14 @@ def get_help(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Help",
+                            text="♦ Help ♦",
                             url="t.me/{}?start=help".format(context.bot.username),
                         )
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Support Chat",
-                            url="https://t.me/{}".format(SUPPORT_CHAT),
+                            text="⍟ Support Chat ⍟",
+                            url="https://t.me/TITANX_CHAT".format(SUPPORT_CHAT),
                         )
                     ],
                 ]
@@ -805,7 +811,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "I am now online!")
+            dispatcher.bot.sendMessage(f"@TITANX_CHAT", "I Aᴍ Nᴏᴡ Oɴʟɪɴᴇ (｡◕‿◕｡)")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
