@@ -102,13 +102,13 @@ HELP_STRINGS = f"""
 )
 
 SAITAMA_IMG = "https://telegra.ph/file/46230e519ba727f9565eb.jpg"
-TITANIMGSTART = "https://telegra.ph/file/d059bad820d5f4bd6cddd.mp4"
+TITANIMGSTART = "https://telegra.ph/file/012787f4481b0fb347929.mp4"
 STICKERS = ("CAACAgUAAxkBAAICQGCJjgNuxzxhGn6QEvItH-uT1rofAAKPAwACL25IVLf-806RiltCHwQ"
 )
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [NOW](t.me/TITAN_SUPPORT),[TITAN 2.0](t.me/TITANX_CHAT),"""
+Support them  [NOW](https://t.me/TITAN_UPDATES),[TITAN 2.0](https://t.me/TITANX_CHAT),"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -230,7 +230,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            "Yuss! I am online⚡⚡\n<b>Haven't slept since✨:</b> <code>{}</code>".format(
+            "Yᴜꜱꜱ! I Aᴍ Oɴʟɪɴᴇ⚡⚡\n<b>Hᴀᴠᴇɴ'ᴛ Sʟᴇᴘᴛ Sɪɴᴄᴇ✨:</b> <code>{}</code>".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
@@ -366,7 +366,7 @@ def TITAN_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f"*😍 Hi again!  My Name is *TITAN 2.08 😍 \n\nAs You know I'm a next generation superb and friendly group management bot developed by @DARK_DEVIL_OP.* "
+            text=f"*😎 Hi again!  My Name is *TITAN 2.0 😎 \n\nAs You know I'm a next generation superb and friendly group management bot developed by @DARK_DEVIL_OP.* "
             f"\n\n 🔥 Join [TITAN 2.0](https://t.me/TITAN_UPDATES) To Keep Yourself Updated About *TITAN 2.0* 🔥"
             f"\n\n I have some normal GROUP MANAGING functions like flood control, a warning system etc. But I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers and many more usefull commands."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/46230e519ba727f9565eb.jpg)"
@@ -425,8 +425,8 @@ def TITAN_about_callback(update, context):
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
             text=f"*TITAN 2.0 Is the redisigned version of Daisy and Naruto for the best performance.*"
-            f"\n\nBased on [тє¢нησ_ρяσ](https://github.com/Techno212)."
-            f"\n\nTITAN 2.0's source code was written and modified by @DARK_DEVIL_OP|@kenaki_ded"
+            f"\n\nBased on [тє¢нησ_ρяσ](https://github.com/Titan-OP)."
+            f"\n\nTITAN 2.0's source code was written and modified by @DARK_DEVIL_OP"
             f"\n\nIf Any Question About TITAN 2.0, \nLet Us Know At [SUPPORT GROUP](https://t.me/TITANX_CHAT).",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
