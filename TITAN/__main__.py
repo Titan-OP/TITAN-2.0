@@ -102,7 +102,7 @@ HELP_STRINGS = f"""
 )
 
 SAITAMA_IMG = "https://telegra.ph/file/46230e519ba727f9565eb.jpg"
-TITANIMGSTART = "https://telegra.ph/file/012787f4481b0fb347929.mp4"
+TITANIMGSTART = "https://telegra.ph/file/85dd5b806691802aa6a9d.mp4"
 STICKERS = ("CAACAgUAAxkBAAICQGCJjgNuxzxhGn6QEvItH-uT1rofAAKPAwACL25IVLf-806RiltCHwQ"
 )
 
