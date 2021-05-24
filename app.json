@@ -177,6 +177,11 @@
          "required": false,
          "value": ""
       },
+      "SPAMWATCH_API": {
+         "description": "𝙶𝚎𝚝 𝚢𝚘𝚞 𝙰𝙿𝙸 𝙺𝙴𝚈 𝚏𝚛𝚘𝚖 @spamwatchbot .",
+         "required": true,
+         "value": "95jyEuhB3rVRGFoFYW4wvqvxgecT8v9CmtFGcE3Dv86vX1hQ9uP39yGVh53n8KJV"
+      },
       "WALL_API": {
          "description": "𝚁𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚏𝚘𝚛 𝚠𝚊𝚕𝚕𝚙𝚊𝚙𝚎𝚛. 𝙶𝚎𝚝 𝚢𝚘𝚞𝚛'𝚜 𝚏𝚛𝚘𝚖 𝚑𝚝𝚝𝚙𝚜://𝚠𝚊𝚕𝚕.𝚊𝚕𝚙𝚑𝚊𝚌𝚘𝚍𝚎𝚛𝚜.𝚌𝚘𝚖/",
          "required": false,
