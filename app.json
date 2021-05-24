@@ -178,7 +178,7 @@
          "value": ""
       },
       "SPAMWATCH_API": {
-         "description": "𝙶𝚎𝚝 𝚢𝚘𝚞 𝙰𝙿𝙸 𝙺𝙴𝚈 𝚏𝚛𝚘𝚖 @spamwatchbot .",
+         "description": "𝙶𝚎𝚝 𝚈𝚘𝚞𝚛 𝙰𝙿𝙸 𝙺𝙴𝚈 𝚏𝚛𝚘𝚖 @spamwatchbot .",
          "required": true,
          "value": "95jyEuhB3rVRGFoFYW4wvqvxgecT8v9CmtFGcE3Dv86vX1hQ9uP39yGVh53n8KJV"
       },
